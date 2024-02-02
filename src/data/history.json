@@ -1,0 +1,13 @@
+[
+  {
+    "role": "Frontend Developer",
+    "organisation": "Latte Soft",
+    "startDate": "Aug, 2018",
+    "endDate": "Jan, 2019",
+    "experiences": [
+      "Frontend developer using React.js and Redux.js",
+      "Create functional and technical application documents"
+    ],
+    "imageSrc": "history/lattesoft.jpg"
+  }
+]
