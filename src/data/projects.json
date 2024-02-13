@@ -1,39 +1,63 @@
 [
     {
-        "title": "Project A",
-        "imageSrc": "projects/project.png",
+        "title": "PokeDex",
+        "imageSrc": "projects/pokedex.png",
         "description": "This is a project made to learn the latest languages by building an app.",
         "skills": [
             "React",
-            "Express",
-            "Node"
+            "Axios",
+            "React Router"
         ],
-        "demo": "https://www.example.com",
-        "source": "https://www.github.com"
+        "demo": "https://pokedex-react-study.netlify.app/",
+        "source": "https://github.com/tinto88/pokedex1"
     },
     {
-        "title": "Project B",
-        "imageSrc": "projects/project.png",
-        "description": "This is a project made to learn the latest languages by building an app.",
+        "title": "PokeFav",
+        "imageSrc": "projects/pokefav.png",
+        "description": "This is a Hobby project to learn about React with Vite and Tailwind.",
         "skills": [
             "React",
-            "Express",
-            "Node",
-            "Sass"
+            "Axios",
+            "Vite"
         ],
-        "demo": "https://www.example.com",
-        "source": "https://www.github.com"
+        "demo": "https://pokefav-react.netlify.app/",
+        "source": "https://github.com/tinto88/PokeFav"
     },
     {
-        "title": "Project C",
-        "imageSrc": "projects/project.png",
-        "description": "This is a project made to learn the latest languages by building an app.",
+        "title": "SoTube",
+        "imageSrc": "projects/sotube.png",
+        "description": "This is a project made to learn about YouTube viewing behavior in 2018.",
         "skills": [
-            "React",
-            "Express",
-            "Node"
+            "Python",
+            "HTML",
+            "CSS"
         ],
-        "demo": "https://www.example.com",
-        "source": "https://www.github.com"
+        "demo": "https://61070071.github.io/SoTube/",
+        "source": "https://github.com/61070071/SoTube"
+    },
+    {
+        "title": "IT Adventure",
+        "imageSrc": "projects/itadven.png",
+        "description": "This is a project of Snakes and Ladders Game in IT KMITL.",
+        "skills": [
+            "HTML",
+            "CSS",
+            "JS"
+        ],
+        "demo": "https://www.youtube.com/watch?v=7Ry0yXessdo",
+        "source": "https://github.com/61070071/IT-adventure"
+    },
+    {
+        "title": "RDMS",
+        "imageSrc": "projects/rdms.png",
+        "description": "Role and Duty Management System is project that made for manage camp and camper data.",
+        "skills": [
+            "Python",
+            "HTML",
+            "CSS",
+            "Docker"
+        ],
+        "demo": "-",
+        "source": "https://github.com/ongsuwannoo/RDMS"
     }
 ]

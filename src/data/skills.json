@@ -17,22 +17,18 @@
   },
   {
     "title": "Firebase",
-    "imageSrc": "skills/css.png"
+    "imageSrc": "skills/firebase.png"
   },
   {
-    "title": "Node",
-    "imageSrc": "skills/node.png"
+    "title": "Python",
+    "imageSrc": "skills/python.png"
   },
   {
-    "title": "GraphQL",
-    "imageSrc": "skills/graphql.png"
+    "title": "Django",
+    "imageSrc": "skills/django.png"
   },
   {
-    "title": "MongoDB",
-    "imageSrc": "skills/mongodb.png"
-  },
-  {
-    "title": "Figma",
-    "imageSrc": "skills/figma.png"
+    "title": "Creative Clocd",
+    "imageSrc": "skills/creativecloud.png"
   }
 ]
