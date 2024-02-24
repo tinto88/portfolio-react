@@ -34,7 +34,7 @@ export const About = () => {
                         <div className={styles.aboutItemText}>
                             <h3>UI Designer</h3>
                             <p>
-                                I have designed and learned Adobe Creative Cloud.
+                                I used to designed and learned Adobe XD.
                             </p>
                         </div>
                     </li>
