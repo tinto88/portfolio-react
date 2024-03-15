@@ -16,6 +16,10 @@
     "imageSrc": "skills/react.png"
   },
   {
+    "title": "Vue",
+    "imageSrc": "skills/vue.png"
+  },
+  {
     "title": "Firebase",
     "imageSrc": "skills/firebase.png"
   },
